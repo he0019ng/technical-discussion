@@ -19,3 +19,7 @@ this is the [notebook](https://github.com/he0019ng/technical-discussion/blob/mai
 ### Images
 
 ![image](https://github.com/he0019ng/technical-discussion/assets/128305603/230036b4-9775-455d-89d3-ef290c37b923)
+
+## Practice-Markdown
+
+this is my [notebook for markdown practice](https://colab.research.google.com/drive/1Ub5nm7uX_gfPq2xh9CcdGQSDnjnDBDd6?usp=sharing)
