@@ -18,4 +18,4 @@ this is the [notebook](https://github.com/he0019ng/technical-discussion/blob/mai
 
 ### Images
 
-(https://github.com/he0019ng/technical-discussion/issues/1#issue-1715152957)
+![image](https://github.com/he0019ng/technical-discussion/assets/128305603/230036b4-9775-455d-89d3-ef290c37b923)
