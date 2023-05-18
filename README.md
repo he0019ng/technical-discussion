@@ -8,6 +8,10 @@ This is a demo repo for sharing ideas around communication
 * two
 * three
 
-## Gist
+### Gist
 
 This is a good exmaple of [my code](https://gist.github.com/he0019ng/d2bfe591ff0d26a8279db96a00fb9794#file-hello-py)
+
+### Colab Example
+
+this is the [notebook](https://github.com/he0019ng/technical-discussion/blob/main/technical_docs.ipynb)
